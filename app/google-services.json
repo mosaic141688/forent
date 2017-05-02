@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475018166067",
+    "firebase_url": "https://forent-e2176.firebaseio.com",
+    "project_id": "forent-e2176",
+    "storage_bucket": "forent-e2176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475018166067:android:3a031850ce3934a0",
+        "android_client_info": {
+          "package_name": "com.example.mosaic.forrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475018166067-2l8llfop3mvd5ri3kj9s31mplrs957kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosaic.forrent",
+            "certificate_hash": "4923a49f7d713af406fbd2ef8a7550adaf95ecc0"
+          }
+        },
+        {
+          "client_id": "475018166067-76o3ost6q6vagilie54ifbct0pat3453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2Mp6jggqAeUYYo6ECDwJBXq5wXxWr4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475018166067-76o3ost6q6vagilie54ifbct0pat3453.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
